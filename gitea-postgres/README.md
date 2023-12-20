@@ -65,3 +65,4 @@ To remove all Gitea data, delete the named volumes by passing the `-v` parameter
 ```
 $ docker compose down -v
 ```
+---
